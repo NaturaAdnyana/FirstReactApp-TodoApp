@@ -40,7 +40,7 @@ const App = () => {
         />
       ))}
     <footer>
-      <p>Visit how this page is made <a href="/">here.</a></p>
+      <p>Visit how this page is made <a href="https://github.com/NaturaAdnyana/FirstReactApp-TodoApp">here.</a></p>
     </footer>
     </div>
   );
