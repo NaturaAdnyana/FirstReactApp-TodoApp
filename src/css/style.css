@@ -21,12 +21,13 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  padding: 15px;
 }
 
 .todo-list {
   margin: auto;
   padding: 20px;
-  width: 90%;
+  width: 95%;
   background: #fff;
   border-radius: 16px;
   -webkit-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
@@ -60,7 +61,7 @@
 .todo {
   margin: auto;
   padding: 20px;
-  width: 90%;
+  width: 95%;
   background: #fff;
   border-radius: 16px;
   -webkit-box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
