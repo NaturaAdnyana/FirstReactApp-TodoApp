@@ -94,7 +94,7 @@
   background-color: #6fd66f;
 }
 
-.todo .sec-button .complete :hover {
+.todo .sec-button .complete:hover {
   background-color: #399c39;
 }
 
@@ -102,7 +102,7 @@
   background-color: #ff9191;
 }
 
-.todo .sec-button .remove :hover {
+.todo .sec-button .remove:hover {
   background-color: #c74f4f;
 }
 
