@@ -94,8 +94,16 @@
   background-color: #6fd66f;
 }
 
+.todo .sec-button .complete :hover {
+  background-color: #399c39;
+}
+
 .todo .sec-button .remove {
   background-color: #ff9191;
+}
+
+.todo .sec-button .remove :hover {
+  background-color: #c74f4f;
 }
 
 footer {

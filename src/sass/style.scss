@@ -65,9 +65,16 @@
     }
     .complete{
       background-color: rgb(111, 214, 111);
+      :hover{
+        background-color: rgb(57, 156, 57);
+      }
     }
     .remove{
       background-color: rgb(255, 145, 145);
+      :hover{
+      background-color: rgb(199, 79, 79);
+
+      }
     }
   }
 }
